@@ -1,0 +1,24 @@
+*.suo
+bin/
+obj/
+*.user
+.vs
+Library/
+Logs/
+Temp/
+UserSettings/
+Output/
+/out
+*.nuget/
+*/project.lock.json
+*.pfx
+*.log
+*.tmp
+*.cache
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Visual Studio
+*.suo
